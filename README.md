@@ -1,6 +1,6 @@
 ### About me
 
-[*]	Former CTFer
+[*]	Retired Ctfer
 
 [*]	Binary Security Researcher
 
