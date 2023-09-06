@@ -6,5 +6,5 @@
 
 | You can find me here |                            Links                             |
 | :----------: | :----------------------------------------------------------: |
-|    cnblog    | [https://www.cnblogs.com/anatomyx/](https://www.cnblogs.com/anatomyx/) |
-|   Twitter    | [https://twitter.com/An4tomyX](https://twitter.com/An4tomyX) |
+|    blog    | [https://mykonos-x.github.io/](https://mykonos-x.github.io/) |
+|   Twitter    | [https://twitter.com/mykonos_x](https://twitter.com/mykonos_x) |
