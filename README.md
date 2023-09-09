@@ -1,8 +1,8 @@
-- ⛓️Retired Ctfer
+Retired Ctfer
 
-- ⛓️Binary Security Researcher
+Binary Security Researcher
 
-- ⛓️blog: https://mykonos-x.github.io/
+blog: https://mykonos-x.github.io/
 
 
 
