@@ -2,7 +2,7 @@ Retired Ctfer
 
 Binary Security Researcher
 
-blog: https://mykonos-x.github.io/
+
 
 
 
