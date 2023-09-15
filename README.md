@@ -1,6 +1,6 @@
-Retired Ctfer
+- Retired Ctfer
 
-Binary Security Researcher
+- Binary Security Researcher
 
 
 
