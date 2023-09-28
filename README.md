@@ -1,10 +1,6 @@
-- Retired Ctfer
-
-- Binary Security Researcher
-
-
-
-
+- 🛰️ The Weakest Binary Security Researchers
+- 👀 INFJ
+- 👾 Stay away from annoying people and things
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mykonos-x/Mykonos-x/output/github-contribution-grid-snake-dark.svg">
