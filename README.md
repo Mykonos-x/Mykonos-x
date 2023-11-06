@@ -1,7 +1,7 @@
-#### Hi, here is Ez3ki3l ![](https://views.whatilearened.today/views/github/mykonos-x/mykonos-x.svg)
-✨ 🛰️ Amateur Binary Security Researcher
-✨ 👀 INFJ
-✨ 👾 Stay away from annoying people and things
+### Hi, here is Ez3ki3l ![](https://views.whatilearened.today/views/github/mykonos-x/mykonos-x.svg)
+✨ 🛰️ Amateur Binary Security Researcher<br>
+✨ 👀 INFJ<br>
+✨ 👾 Stay away from annoying people and things<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mykonos-x/Mykonos-x/output/github-contribution-grid-snake-dark.svg">
