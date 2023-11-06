@@ -1,4 +1,4 @@
-- 🛰️ The Weakest Binary Security Researchers
+- 🛰️ Amateur Binary Security Researcher
 - 👀 INFJ
 - 👾 Stay away from annoying people and things
 
