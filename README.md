@@ -1,9 +1,8 @@
-### Hi, here is Ez3ki3l ![](https://views.whatilearened.today/views/github/mykonos-x/mykonos-x.svg)
+### Hi, here is ymepetb ![](https://views.whatilearened.today/views/github/mykonos-x/mykonos-x.svg)
 ✨ 🛰️ Amateur Binary Security Researcher<br>
-✨ 👀 INFJ<br>
-✨ 👾 Stay away from annoying people and things<br>
+✨ 👾 Do something meaningful<br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mykonos-x&theme=material&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mykonos-x&theme=prussian&hide_border=true&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mykonos-x/Mykonos-x/output/github-contribution-grid-snake-dark.svg">
